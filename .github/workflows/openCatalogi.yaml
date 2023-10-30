@@ -17,4 +17,4 @@ jobs:
         with:
           opencatalogi: true
       - name: Create an Open Catalogi page
-        uses: OpenCatalogi/opencatalogi-action@1.0.0-SNAPSHOT.16.49ec47a
+        uses: OpenCatalogi/opencatalogi-action@1.0.0-SNAPSHOT.17.53cda65
