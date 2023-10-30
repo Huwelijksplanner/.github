@@ -1,0 +1,49 @@
+contact:
+  email: ''
+  phone: ''
+name: ''
+publiccodeYmlVersion: '0.2'
+softwareOwned:
+- https://github.com/Huwelijksplanner/ReviewRegister
+- https://github.com/Huwelijksplanner/TrouwService
+- https://github.com/Huwelijksplanner/VraagAntwoordRegister
+- https://github.com/Huwelijksplanner/MemoRegister
+- https://github.com/Huwelijksplanner/OverigeObjecten
+- https://github.com/Huwelijksplanner/AgendaService
+- https://github.com/Huwelijksplanner/HuwelijksplannerGateway
+- https://github.com/Huwelijksplanner/BerichtenService
+- https://github.com/Huwelijksplanner/MedewerkersRegister
+- https://github.com/Huwelijksplanner/.github
+softwareSupported:
+- software: https://github.com/Huwelijksplanner/ReviewRegister
+  type: community
+- software: https://github.com/Huwelijksplanner/TrouwService
+  type: community
+- software: https://github.com/Huwelijksplanner/VraagAntwoordRegister
+  type: community
+- software: https://github.com/Huwelijksplanner/MemoRegister
+  type: community
+- software: https://github.com/Huwelijksplanner/OverigeObjecten
+  type: community
+- software: https://github.com/Huwelijksplanner/AgendaService
+  type: community
+- software: https://github.com/Huwelijksplanner/HuwelijksplannerGateway
+  type: community
+- software: https://github.com/Huwelijksplanner/BerichtenService
+  type: community
+- software: https://github.com/Huwelijksplanner/MedewerkersRegister
+  type: community
+- software: https://github.com/Huwelijksplanner/.github
+  type: community
+softwareUsed:
+- https://github.com/Huwelijksplanner/ReviewRegister
+- https://github.com/Huwelijksplanner/TrouwService
+- https://github.com/Huwelijksplanner/VraagAntwoordRegister
+- https://github.com/Huwelijksplanner/MemoRegister
+- https://github.com/Huwelijksplanner/OverigeObjecten
+- https://github.com/Huwelijksplanner/AgendaService
+- https://github.com/Huwelijksplanner/HuwelijksplannerGateway
+- https://github.com/Huwelijksplanner/BerichtenService
+- https://github.com/Huwelijksplanner/MedewerkersRegister
+- https://github.com/Huwelijksplanner/.github
+website: ''
