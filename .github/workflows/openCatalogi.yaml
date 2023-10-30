@@ -17,4 +17,7 @@ jobs:
         with:
           opencatalogi: true
       - name: Create an Open Catalogi page
-        uses: OpenCatalogi/opencatalogi-action@1.0.0-SNAPSHOT.17.53cda65
+        uses: OpenCatalogi/opencatalogi-action@1.0.0-SNAPSHOT.18.efb3411
+        with:
+          nl_design_theme_classname: 'utrecht-theme'
+          pull_from_branche: 'development'
