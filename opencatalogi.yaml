@@ -1,7 +1,7 @@
 contact:
   email: ''
   phone: ''
-name: ''
+name: 'Huwelijksplanner'
 publiccodeYmlVersion: '0.2'
 softwareOwned:
 - https://github.com/Huwelijksplanner/ReviewRegister
